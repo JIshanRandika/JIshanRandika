@@ -3,7 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishanrandika&label=Profile%20views&color=0e75b6&style=flat" alt="jishanrandika" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishanrandika" alt="jishanrandika" /></a> </p>
+<p align="center"> 
+  <table>
+  <tr><td>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+     </td>
+    <td>
+  <img src="https://github-profile-trophy.vercel.app/?username=jishanrandika" alt="jishanrandika" />
+       </td>
+  </tr>
+  </table>
+  </a> </p>
 
 <p align="left"> <a href="https://twitter.com/j_randika" target="blank"><img src="https://img.shields.io/twitter/follow/j_randika?logo=twitter&style=for-the-badge" alt="j_randika" /></a> </p>
 
