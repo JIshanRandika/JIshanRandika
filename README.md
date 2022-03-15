@@ -6,7 +6,7 @@
 <p align="center"> 
   <table>
   <tr><td>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+ // <a href="https://github.com/ryo-ma/github-profile-trophy">
      </td>
     <td>
   <img src="https://github-profile-trophy.vercel.app/?username=jishanrandika" alt="jishanrandika" />
