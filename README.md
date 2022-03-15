@@ -31,4 +31,4 @@
 </td>
   </tr>
   </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishanrandika&" alt="jishanrandika" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishanrandika&" alt="jishanrandika" /></p>
