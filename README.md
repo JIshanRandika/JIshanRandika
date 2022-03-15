@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayaweerage Ishan Randika</h1>
 <h3 align="center">I am a dedicated, innovative and self-motivated person with the ability to adapt any Software & Hardware tools or working environment searching for Software Engineer position and interesting to work with new technologies in different fields. Efficient work style is guaranteed for individual project works as well as group projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jishanrandika&label=Profile%20views&color=0e75b6&style=flat" alt="jishanrandika" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jishanrandika&label=Profile%20views&color=0e75b6&style=flat" alt="jishanrandika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishanrandika" alt="jishanrandika" /></a> </p>
 
