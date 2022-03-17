@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayaweerage Ishan Randika</h1>
-<h6 align="center">B.Sc (Honours) Computing & Information Systems(UG) in Sabaragamuwa University of Sri Lanka | Dip. Computer Science under Edith Cowan University, Australia | Member at IEEE | Data Science Enthusiast | Associate Software Engineer
+<h6 align="center">B.Sc (Hons) Computing & Information Systems(UG) in Sabaragamuwa University of Sri Lanka | Dip. Computer Science under Edith Cowan University, Australia | Member at IEEE | Data Science Enthusiast | Associate Software Engineer
 </h6>
 <h3 align="center">I am a dedicated, innovative and self-motivated person with the ability to adapt any Software & Hardware tools or working environment searching for Software Engineer position and interesting to work with new technologies in different fields. Efficient work style is guaranteed for individual project works as well as group projects.</h3>
 
